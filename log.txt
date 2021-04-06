@@ -1,0 +1,6 @@
+Log: 
+
+2021-04-05 15:19:17.579  Failed Log in attempt for user: admin
+2021-04-05 15:19:25.916  Failed Log in attempt for user: admin
+2021-04-05 15:21:19.224  Admin User has logged in.
+2021-04-05 15:21:33.875  Admin User has logged out.
